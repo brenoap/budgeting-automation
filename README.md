@@ -8,8 +8,9 @@ Code is written in Javascript using Jasmine as BDD.
 
 - [WebdriverIO](https://github.com/webdriverio/webdriverio) - install globally to be able to use wdio test runner
 - [Selenium Server](http://www.seleniumhq.org/download/) is just needed if webdriverIO was not installed globally.  
-  [Selenium GitHub repo](https://github.com/vvo/selenium-standalone),  
-  [Selenium NPM repo](https://www.npmjs.com/package/selenium-standalone)
+-  [Selenium GitHub repo](https://github.com/vvo/selenium-standalone),  
+-  [Selenium NPM repo](https://www.npmjs.com/package/selenium-standalone)
+- After installing some dependencis manually, run 'npm install'
 
 **BDD report**
 
