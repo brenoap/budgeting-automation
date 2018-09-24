@@ -1,0 +1,27 @@
+{
+  "inflow_transaction": {
+    "category": "Income",
+    "description": "Dept. received from a friend",
+    "amount": "800.00"
+  },
+  "outflow_transaction": {
+    "category": "Travel",
+    "description": "Trip to Greece",
+    "amount": "2,000.00"
+  },
+  "add_outflow_value_higher": {
+    "category": "Travel",
+    "description": "Trip to Japan",
+    "amount": "200,000,000.00"
+  },
+  "add_outflow_big_text": {
+    "category": "Car",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mattis neque dolor, id commodo orci suscipit sit amet. Etiam porttitor porttitor dui, at mollis justo tincidunt vel. Proin tellus felis, vulputate in elit eu, scelerisque rutrum elit. Nullam quis ipsum ac eros dapibus interdum. Nam ornare arcu elit, id congue elit posuere at. Aenean et dictum ex. Maecenas tempus sem a libero porta, eget ultricies turpis ullamcorper. Mauris sodales libero sit amet elit lacinia ultrices. Praesent placerat turpis sem, ac laoreet magna varius eu. Praesent sem tortor, eleifend dictum sollicitudin id, efficitur at lacus. Nam semper lectus at lacus dapibus dignissim vel non nibh. Phasellus a nisl dolor.Donec et libero a turpis sagittis iaculis. Morbi finibus, orci ac dapibus volutpat, orci ipsum cursus magna, vitae tincidunt ligula eros bibendum diam. Nullam bibendum, risus ac tempus tempus, ante neque pulvinar nunc, vel convallis elit augue rutrum odio. Morbi euismod, diam in dapibus dictum, massa libero posuere augue, nec pulvinar nisl felis non nibh. Fusce tincidunt nulla a augue commodo finibus. Vestibulum erat urna, finibus sit amet turpis id, convallis ultricies tellus. Fusce faucibus pellentesque augue id congue. Phasellus pretium ullamcorper nisl quis volutpat. Donec at nisi lorem. Aenean at nulla in dolor blandit fermentum. Praesent rutrum gravida mattis. Proin mollis nisl sodales odio imperdiet fringilla. Cras mollis porttitor porttitor. Fusce lacinia sem a nulla vulputate dignissim.Vestibulum in erat ultricies nulla laoreet laoreet et in risus. Aenean pulvinar et ante eu sollicitudin. Vestibulum nulla diam, ultricies id magna quis, consequat rutrum augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean dapibus ligula elementum laoreet tincidunt. Integer feugiat dolor sed libero semper, at mattis eros tristique. Suspendisse placerat purus dapibus, blandit justo vitae, sagittis ipsum. Cras id tellus imperdiet, lacinia ex sit amet, condimentum est. Phasellus id mauris vitae enim tincidunt hendrerit.Suspendisse id lobortis magna. Pellentesque eu placerat quam. Donec ac massa eros. Vestibulum congue, leo sed fermentum vehicula, nisi nulla convallis nunc, vel malesuada ipsum metus vel turpis. In laoreet blandit augue vel volutpat. Vivamus rutrum nisi ullamcorper felis placerat lobortis. Praesent massa purus, placerat tempus euismod quis, dapibus in leo. Suspendisse potenti. Fusce sit amet molestie augue.Vestibulum porttitor viverra turpis, eget suscipit diam pretium et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum nulla elit, porta auctor felis ac, commodo pharetra felis. Fusce pretium efficitur vestibulum. Integer nec metus a ligula ullamcorper laoreet. Quisque malesuada, nisl sit amet gravida ultrices, purus erat dignissim lectus, nec fermentum ligula nibh nec risus. Aenean at malesuada lectus. Vivamus euismod nisl id semper porta. Donec vel ante sed velit mattis porta. Suspendisse mattis diam non nisi ullamcorper gravida. Aliquam fermentum accumsan imperdiet. Nunc rhoncus ligula id tempus elementum.",
+    "amount": "200.00"
+  },
+  "add_inflow_big_amount": {
+    "category": "Income",
+    "description": "House selling",
+    "amount": "20,000,000,000,000,000,000,000,000,000,000,000,000.00"
+  }
+}
